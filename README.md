@@ -40,15 +40,3 @@ After the training and test data set (incl. labels, activities and subjects) are
 In the second step the run_analysis.R skript extracts only the measurements (features) on the mean and standard deviation for each measurement.
 
 In the last step the skript creates an independent tidy data set with the average of each variable for each activity and each subject. This data set is then written into a text file in the working directory.
-
-
-
-
-
-
-
-
-
-
-# tidydata
-# tidydata
